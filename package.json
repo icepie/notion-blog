@@ -2,9 +2,9 @@
   "name": "blog",
   "version": "1.0.0",
   "private": true,
-  "description": "Jerry K Jia's Blog",
-  "author": "Jkker <j@erry.dev>",
-  "repository": "Jkker/blog",
+  "description": "icepie's Blog",
+  "author": "icepie <icepie.dev@gmail.com>",
+  "repository": "icepie/notion-blog",
   "license": "MIT",
   "engines": {
     "node": ">=14.17"

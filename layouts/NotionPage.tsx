@@ -148,7 +148,7 @@ export const NotionPage: React.FC<
           showTableOfContents={false}
           mapPageUrl={siteMapPageUrl}
           mapImageUrl={mapImageUrl}
-          defaultPageCover={`https://www.jerrykjia.com/images/city.webp`}
+          defaultPageCover={`https://cdn.pixabay.com/photo/2015/06/02/12/59/book-794978_960_720.jpg`}
           // searchNotion={(config.isSearchEnabled as any) ? searchNotion : null}
           className={cx(
             noBg ||

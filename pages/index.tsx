@@ -15,7 +15,7 @@ import {
   getBlockIcon,
 } from 'notion-utils'
 import getIcon from '@/lib/get-icon'
-import cover from '@/public/images/city.webp'
+import cover from '@/public/images/052.jpg'
 
 export const getStaticProps = async () => {
   try {

@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://www.jerrykjia.com">
+  <a href="https://blog.icepie.net">
     <img src="https://github.com/Jkker/blog/raw/main/public/avatar-circle.webp" alt="Logo" width="80" height="80">
   </a>
   <h3>Jerry K Jia's Personal Site</h3>
   <p align="center">
-    <a href="https://www.jerrykjia.com/">www.jerrykjia.com</a>
+    <a href="https://blog.icepie.net/">blog.icepie.net</a>
   </p>
 </div>
 

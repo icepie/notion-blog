@@ -33,7 +33,7 @@ const AvatarIcon = ({ className = '' }) => (
     }
     title="About Me"
   >
-    Jerry K Jia
+    icepie
   </Button>
 )
 

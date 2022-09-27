@@ -19,16 +19,15 @@ const navLinks: NavLink[] = [
     url: '/projects',
     icon: <FaProjectDiagram />,
   },
-  {
-    title: 'Snippets',
-    url: '/snippets',
-    icon: <FaCode />,
-  },
+  // {
+  //   title: 'Snippets',
+  //   url: '/snippets',
+  //   icon: <FaCode />,
+  // },
   {
     title: 'About',
     url: '/about',
     icon: <RiUser3Fill />,
-    pageId: '6ce65fc4d4be42e8b613cb8e6558c4cf',
   },
 ]
 
