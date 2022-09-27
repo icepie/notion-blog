@@ -1,17 +1,4 @@
-<div align="center">
-  <a href="https://blog.icepie.net">
-    <img src="https://github.com/icepie/notion-blog/raw/main/public/avatar.webp" alt="Logo" width="80" height="80">
-  </a>
-  <h3>Jerry K Jia's Personal Site</h3>
-  <p align="center">
-    <a href="https://blog.icepie.net/">blog.icepie.net</a>
-  </p>
-</div>
 
-
-|                     Light                     |                    Dark                     |
-| :-------------------------------------------: | :-----------------------------------------: |
-| ![light](/public/previews/preview-light.webp) | ![dark](/public/previews/preview-dark.webp) |
 
 ## Features
 
