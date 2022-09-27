@@ -3,9 +3,16 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
 
+  // https://icepie.notion.site/a81a3be759ff4140934ad9fabdce2a9c?v=aaf3cb01051045da8be69190271dc9f6
+
+  // https://icepie.notion.site/Blog-90b9c86c18dd444b8e0e9f76bdc6b1d3
+
+  //https://www.notion.so/icepie/b6201068ecf24b48b03f23d65710723f?v=b8b5040ed4c44ca982db01e2dd3e5c90
+
   // Blog
-  rootNotionPageId: 'eae99f65470b415b913f482060e43381',
-  postsCollectionId: '046e539cfcd04dad8704d00994d66bed',
+  rootNotionPageId: '90b9c86c18dd444b8e0e9f76bdc6b1d3',
+  postsCollectionId: 'ea3be0c8-e619-48be-897a-92a1efb427f4',
+  // https://icepie.notion.site/CPU-uint128-s-Blog-9e8a1035601346ea947153d554f2a3c2
   // Test Suite
   // rootNotionPageId: '067dd719a912471ea9a3ac10710e7fdf',
 
@@ -14,19 +21,20 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Anti-Involutionist',
-  domain: 'blog.jerrykjia.com',
-  author: 'Jerry K Jia',
+  name: '平均律',
+  domain: 'blog.icepie.net',
+  author: 'icepie',
   yearStarted: 2022,
 
   // open graph metadata (optional)
-  description: 'Striving to escape the vortex of involution',
+  description: 'I am here :)',
 
   // social usernames (optional)
   // twitter: '_Jkker_',
-  github: 'Jkker',
-  linkedin: 'jerrykjia',
-  email: 'me@jerrykjia.com',
+  github: 'icepie',
+  // linkedin: 'jerrykjia',
+  telegram: 'icepie',
+  email: 'icepie.dev@gmail.com',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 

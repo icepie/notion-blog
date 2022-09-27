@@ -14,6 +14,8 @@ export const rootNotionPageId: string = parsePageId(
   { uuid: false }
 )
 
+console.log('getSiteConfig', rootNotionPageId)
+
 if (!rootNotionPageId) {
   throw new Error('Config error invalid "rootNotionPageId"')
 }
