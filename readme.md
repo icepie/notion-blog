@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://blog.icepie.net">
-    <img src="https://github.com/icepie/notion-blog/raw/main/public/avatar.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/icepie/notion-blog/raw/main/public/avatar.webp" alt="Logo" width="80" height="80">
   </a>
   <h3>Jerry K Jia's Personal Site</h3>
   <p align="center">
