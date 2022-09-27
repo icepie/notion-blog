@@ -1,4 +1,4 @@
-import { FaCode, FaHome, FaProjectDiagram } from 'react-icons/fa'
+import { FaCode, FaFan, FaHome, FaProjectDiagram } from 'react-icons/fa'
 import { RiUser3Fill } from 'react-icons/ri'
 
 type NavLink = {
@@ -19,11 +19,11 @@ const navLinks: NavLink[] = [
     url: '/projects',
     icon: <FaProjectDiagram />,
   },
-  // {
-  //   title: 'Snippets',
-  //   url: '/snippets',
-  //   icon: <FaCode />,
-  // },
+  {
+    title: 'Friends',
+    url: '/friends',
+    icon: <FaFan />,
+  },
   {
     title: 'About',
     url: '/about',
