@@ -19,7 +19,7 @@ export default siteConfig({
   name: '平均律',
   domain: 'blog.icepie.net',
   author: 'icepie',
-  yearStarted: 2022,
+  yearStarted: 2017,
 
   // open graph metadata (optional)
   description: 'I am here :)',
