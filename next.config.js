@@ -13,7 +13,8 @@ module.exports = withBundleAnalyzer({
       'abs.twimg.com',
       's3.us-west-2.amazonaws.com',
       'cdn.jsdelivr.net',
-      'cdn.pixabay.com'
+      'cdn.pixabay.com',
+      '*.icepie.net'
     ],
     formats: ['image/avif', 'image/webp'],
     dangerouslyAllowSVG: true,

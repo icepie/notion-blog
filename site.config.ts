@@ -70,9 +70,9 @@ export default siteConfig({
   projects: [
     {
       title: '云小洛 (Air LIT)',
-      description: `Find a place to chill-out when you're on campus`,
-      coverImage: '/images/alesia-kazantceva-VWcPlbHglYc-unsplash.jpg',
-      href: '/projects/nyu-space',
+      description: `一个为洛理打造的校园实用小工具...`,
+      coverImage: '/images/air-lit-banner.jpg',
+      href: 'https://air-lit.icepie.net',
     }
   ],
 })
