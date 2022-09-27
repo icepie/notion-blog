@@ -3,11 +3,6 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
 
-  // https://icepie.notion.site/a81a3be759ff4140934ad9fabdce2a9c?v=aaf3cb01051045da8be69190271dc9f6
-
-  // https://icepie.notion.site/Blog-90b9c86c18dd444b8e0e9f76bdc6b1d3
-
-  //https://www.notion.so/icepie/b6201068ecf24b48b03f23d65710723f?v=b8b5040ed4c44ca982db01e2dd3e5c90
 
   // Blog
   rootNotionPageId: '90b9c86c18dd444b8e0e9f76bdc6b1d3',
@@ -32,7 +27,7 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: '_Jkker_',
   github: 'icepie',
-  // linkedin: 'jerrykjia',
+  steam: 'givein2u',
   telegram: 'icepie',
   email: 'icepie.dev@gmail.com',
   // newsletter: '#', // optional newsletter URL
@@ -57,9 +52,10 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
+  // https://icepie.notion.site/About-6640da72acec467fb7fa41eab90d513c
   pageUrlOverrides: {
-    '/acknowledgement-legal-information': 'ec61b821a2e74cb893df121f16cf8268',
-    '/about': '6ce65fc4d4be42e8b613cb8e6558c4cf',
+    '/acknowledgement-legal-information': '6640da72acec467fb7fa41eab90d513c',
+    '/about': '6640da72acec467fb7fa41eab90d513c',
     // '/test': '067dd719a912471ea9a3ac10710e7fdf',
   },
 
@@ -73,34 +69,10 @@ export default siteConfig({
   },
   projects: [
     {
-      title: 'NYU Unoccupied Space Finder',
+      title: '云小洛 (Air LIT)',
       description: `Find a place to chill-out when you're on campus`,
       coverImage: '/images/alesia-kazantceva-VWcPlbHglYc-unsplash.jpg',
       href: '/projects/nyu-space',
-    },
-    {
-      title: 'Brightspace File Organizer',
-      description: `Organize your Brightspace files and content`,
-      href: '/projects/brightspace',
-      coverImage: '/images/alfons-morales-YLSwjSy7stw-unsplash.jpg',
-    },
-    {
-      title: 'NYU Academic Calendar Subscriber',
-      description: `Subscribe to NYU's Academic Calendar via Google Calendar or iCal.`,
-      coverImage: '/images/nyu.jpg',
-      href: '/projects/nyu-academic-calendar',
-    },
-    {
-      title: 'Sunset Duration',
-      description: `Get the precise sunset duration of your current location`,
-      coverImage: '/images/sunset.png',
-      href: '/api/sunset',
-    },
-    {
-      title: 'Metasearch',
-      description: `An customizable search engine aggregator`,
-      coverImage: '/images/metasearch.jpg',
-      href: 'https://search.jerrykjia.com/',
-    },
+    }
   ],
 })

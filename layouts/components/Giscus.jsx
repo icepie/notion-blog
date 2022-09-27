@@ -7,7 +7,7 @@ const GiscusComponent = ({ className = undefined }) => {
   return (
     <section className={className ?? ''}>
       <giscus-widget
-        repo='Jkker/blog'
+        repo='icepie/notion-blog'
         repoid='R_kgDOH79Ujw'
         category='Replies'
         categoryid='DIC_kwDOH79Uj84CROkR'

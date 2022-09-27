@@ -22,9 +22,9 @@ export const Footer = () => {
         </div>
         <div className='place-self-start'>{config.author}</div>
       </div>
-      <Link href='/acknowledgement-legal-information'>
+      {/* <Link href='/acknowledgement-legal-information'>
         <a className='link'>Acknowledgement / Legal Information</a>
-      </Link>
+      </Link> */}
     </footer>
   )
 }
