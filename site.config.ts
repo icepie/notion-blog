@@ -54,7 +54,7 @@ export default siteConfig({
   //
   // https://icepie.notion.site/About-6640da72acec467fb7fa41eab90d513c
   pageUrlOverrides: {
-    '/friends': '6640da72acec467fb7fa41eab90d513c',
+    '/friends': '11773748d55c44cbb7843ddcc89d7ad5',
     '/about': '6640da72acec467fb7fa41eab90d513c',
     // '/test': '067dd719a912471ea9a3ac10710e7fdf',
   },
