@@ -8,9 +8,9 @@ const GiscusComponent = ({ className = undefined }) => {
     <section className={className ?? ''}>
       <giscus-widget
         repo='icepie/notion-blog'
-        repoid='R_kgDOH79Ujw'
-        category='Replies'
-        categoryid='DIC_kwDOH79Uj84CROkR'
+        repoid='R_kgDOIE1f8w'
+        category='General'
+        categoryid='DIC_kwDOIE1f884CRqUM'
         mapping='pathname'
         strict='0'
         reactionsenabled='1'
