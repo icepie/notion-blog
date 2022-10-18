@@ -73,6 +73,12 @@ export default siteConfig({
       description: `一个为洛理打造的校园实用小工具...`,
       coverImage: '/images/air-lit-banner.jpg',
       href: 'https://air-lit.icepie.net',
+    },
+    {
+      title: 'tauri-notion',
+      description: `A notion desktop app made by tauri`,
+      // coverImage: '/images/air-lit-banner.jpg',
+      href: 'https://github.com/icepie/tauri-notion',
     }
   ],
 })
