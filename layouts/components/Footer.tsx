@@ -1,5 +1,5 @@
 import config from '@/site.config'
-import Link from 'next/link'
+// import Link from 'next/link'
 import { BsHeartFill } from 'react-icons/bs'
 import { BiCopyright } from 'react-icons/bi'
 export const Footer = () => {
@@ -20,7 +20,7 @@ export const Footer = () => {
         <div className='flex-center mt-0.5'>
           <BsHeartFill className='animate-pulse ' />
         </div>
-        <div className='place-self-start'>{config.author}</div>
+        <div className='place-self-start'>{config.author} (Tea)</div>
       </div>
       {/* <Link href='/acknowledgement-legal-information'>
         <a className='link'>Acknowledgement / Legal Information</a>

@@ -37,10 +37,7 @@ export default class MyDocument extends Document {
     localStorageTheme = JSON.parse(localStorageTheme)
   }
   // Determine the source of truth
-  if (localStorageExists) {
-    // source of truth from localStorage
-    setClassOnDocumentBody(localStorageTheme)
-  } else if (supportsColorSchemeQuery) {
+  if (supportsColorSchemeQuery) {
     // source of truth from system
     setClassOnDocumentBody(mql.matches)
     localStorage.setItem(storageKey, mql.matches)

@@ -33,11 +33,7 @@ export const getStaticProps = async () => {
         uuid: process.env.NODE_ENV && process.env.NODE_ENV === 'development',
       })
 
-
-
     console.log('tagColorMap', recordMap.collection)
-
-    
 
     const schema = recordMap.collection?.[collectionId]?.value?.schema
 
@@ -46,7 +42,6 @@ export const getStaticProps = async () => {
     const tagSchemaOptions = Object.values(schema).find(
       (x) => x.name === 'Tags'
     ).options
-
 
     console.log(tagSchemaOptions)
 

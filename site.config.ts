@@ -77,7 +77,7 @@ export default siteConfig({
     {
       title: 'tauri-notion',
       description: `A notion desktop app made by tauri`,
-      // coverImage: '/images/air-lit-banner.jpg',
+      coverImage: '/images/notion-tauri-banner.png',
       href: 'https://github.com/icepie/tauri-notion',
     }
   ],
