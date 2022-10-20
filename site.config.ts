@@ -69,6 +69,12 @@ export default siteConfig({
   },
   projects: [
     {
+      title: 'LUG@LIT',
+      description: `🚀Luoyang Institute of Science and Technology GNU/Linux User Group`,
+      coverImage: 'https://lm-1257148090.cos.ap-nanjing.myqcloud.com/uPic/截屏2022-10-21 01.29.22.png',
+      href: 'https://www.litunix.org',
+    },
+    {
       title: '云小洛 (Air LIT)',
       description: `一个为洛理打造的校园实用小工具...`,
       coverImage: '/images/air-lit-banner.jpg',
