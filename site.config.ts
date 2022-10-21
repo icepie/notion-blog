@@ -22,10 +22,9 @@ export default siteConfig({
   yearStarted: 2017,
 
   // open graph metadata (optional)
-  description: 'I am here :)',
+  description: '待会去码头整点薯条',
 
   // social usernames (optional)
-  // twitter: '_Jkker_',
   github: 'icepie',
   steam: 'givein2u',
   telegram: 'icepie',
